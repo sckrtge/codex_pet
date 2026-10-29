@@ -9,4 +9,4 @@
 
 协议全文见 [LICENSE](LICENSE)，官方说明：https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans 。
 
-此许可声明不代替或扩大上游角色、参考设定图及第三方标识的授权。上游许可核验情况见 [CREDITS.md](CREDITS.md)。公开可见不等于已获得全部所需权利。
+角色来源及二创改动见 [CREDITS.md](CREDITS.md)。原角色、参考设定图及第三方标识的相关权利仍归相应权利人；本项目的分享不表示任何官方背书。

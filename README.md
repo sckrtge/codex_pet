@@ -30,8 +30,10 @@
 
 ## 来源与许可
 
-来源、改动与授权核验状态见 [CREDITS.md](CREDITS.md) 和 [LICENSE.md](LICENSE.md)。
+角色参考：[ZipZipPipe 发布的 codex娘设定图（第三张）](https://www.bilibili.com/opus/1238613841710940181)。感谢原作分享。
 
-本项目二创贡献采用 **CC BY-NC-SA 4.0**。上游角色及参考图的权利不因本项目声明而转移或扩大。当前公开发布前，仍需确认 codex娘的上游许可；所见“鲸鱼娘”声明不自动覆盖 codex娘。
+本项目按 **[CC BY-NC-SA 4.0（署名—非商业性使用—相同方式共享）](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans)** 分享。使用或继续二创时，请保留来源署名与许可链接、注明改动，仅作非商业用途，并按同一协议分享改编作品。
+
+完整来源与改动说明见 [CREDITS.md](CREDITS.md)，许可说明见 [LICENSE.md](LICENSE.md)。
 
 本项目使用 AI 辅助生成与处理图像，并进行动画整理、验证和客户端适配。ChatGPT / Codex 名称及相关标识属于相应权利人，本项目不表示官方背书。
